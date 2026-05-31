@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue projects\\introductiontoue\\gad2006\\hw3_commandbasedgame\\intermediate\\build\\win64\\unrealeditor\\inc\\labwork2\\uht\\labwork2.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue projects\\introductiontoue\\gad2006\\hw3_commandbasedgame\\intermediate\\build\\win64\\x64\\labwork2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue projects\\introductiontoue\\gad2006\\hw3_commandbasedgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\labwork2\\definitions.labwork2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

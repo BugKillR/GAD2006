@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Labwork2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Labwork2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Labwork2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Labwork2">
+      <UniqueIdentifier>{F9B1D40D-6411-372F-8C65-F95EE574A145}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Labwork2\Labwork2.Build.cs">
+      <Filter>Source\Labwork2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Labwork2\Labwork2.cpp">
+      <Filter>Source\Labwork2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Labwork2.h">
+      <Filter>Source\Labwork2</Filter>
+    </ClCompile>
+    <Filter Include="Source\Labwork2\Private">
+      <UniqueIdentifier>{4A048C85-7BF4-3DB0-BB34-099FEC39C4F8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Labwork2\Private\Command.cpp">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\Command.h">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\GameGrid.cpp">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\GameGrid.h">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\GameManager.cpp">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\GameManager.h">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\GameSlot.cpp">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\GameSlot.h">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\MoveCommand.cpp">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\MoveCommand.h">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\TBPlayerController.cpp">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\TBPlayerController.h">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\UnitBase.cpp">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Labwork2\Private\UnitBase.h">
+      <Filter>Source\Labwork2\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

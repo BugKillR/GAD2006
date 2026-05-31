@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE Projects\\IntroductionToUE\\GAD2006\\HW3_CommandBasedGame\\Source\\Labwork2\\Labwork2.Build.cs",
+		"D:\\UE Projects\\IntroductionToUE\\GAD2006\\HW3_CommandBasedGame\\Source\\Labwork2.Target.cs",
+		"D:\\UE Projects\\IntroductionToUE\\GAD2006\\HW3_CommandBasedGame\\Source\\Labwork2Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
