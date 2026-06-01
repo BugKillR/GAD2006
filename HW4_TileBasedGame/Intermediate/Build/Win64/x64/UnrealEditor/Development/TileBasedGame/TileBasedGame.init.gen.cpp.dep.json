@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue projects\\introductiontoue\\tilebasedgame\\intermediate\\build\\win64\\unrealeditor\\inc\\tilebasedgame\\uht\\tilebasedgame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue projects\\introductiontoue\\tilebasedgame\\intermediate\\build\\win64\\x64\\tilebasedgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue projects\\introductiontoue\\tilebasedgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tilebasedgame\\definitions.tilebasedgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

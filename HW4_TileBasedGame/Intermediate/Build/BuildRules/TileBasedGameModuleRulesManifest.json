@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE Projects\\IntroductionToUE\\TileBasedGame\\Source\\TileBasedGame\\TileBasedGame.Build.cs",
+		"D:\\UE Projects\\IntroductionToUE\\TileBasedGame\\Source\\TileBasedGame.Target.cs",
+		"D:\\UE Projects\\IntroductionToUE\\TileBasedGame\\Source\\TileBasedGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

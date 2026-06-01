@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TileBasedGame-0015.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\TileBasedGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\TileBase.gen.cpp.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\TileBasedGame.init.gen.cpp.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\TileGameManager.gen.cpp.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\TilePlayerController.gen.cpp.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\TileBasedGame.cpp.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\TileBase.cpp.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\TileGameManager.cpp.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\TilePlayerController.cpp.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\PerModuleInline.gen.cpp.obj"
+"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\Default.rc2.res"
+/OUT:"D:\UE Projects\IntroductionToUE\TileBasedGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TileBasedGame\UnrealEditor-TileBasedGame-0015.lib"

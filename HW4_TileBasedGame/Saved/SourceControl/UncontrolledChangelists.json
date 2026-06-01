@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Maps/Basic.umap",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_GameManager.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_GameMode.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_PlayerController.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_Tile_0.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_Tile_1.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_Tile_7.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_Tile_6.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_Tile_5.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_Tile_4.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_Tile_3.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Blueprints/BP_Tile_2.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Models/House/SM_House_9.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Models/Props/SM_Umbrella_2.uasset",
+				"D:/UE Projects/IntroductionToUE/TileBasedGame/Content/Materials/M_Sand.uasset"
+			]
+		}
+	]
+}

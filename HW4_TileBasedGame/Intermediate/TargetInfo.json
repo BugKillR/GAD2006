@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TileBasedGame",
+			"Path": "..\\Source\\TileBasedGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TileBasedGameEditor",
+			"Path": "..\\Source\\TileBasedGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

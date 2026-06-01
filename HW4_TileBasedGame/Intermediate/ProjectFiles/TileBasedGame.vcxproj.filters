@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TileBasedGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TileBasedGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TileBasedGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TileBasedGame">
+      <UniqueIdentifier>{FE013A32-E0AC-38E7-9EB1-695A300472EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TileBasedGame\TileBasedGame.Build.cs">
+      <Filter>Source\TileBasedGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TileBasedGame\TileBasedGame.cpp">
+      <Filter>Source\TileBasedGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TileBasedGame\TileBasedGame.h">
+      <Filter>Source\TileBasedGame</Filter>
+    </ClCompile>
+    <Filter Include="Source\TileBasedGame\Private">
+      <UniqueIdentifier>{3A36426E-633F-3685-BC5A-6F38B669D42E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TileBasedGame\Private\TileBase.cpp">
+      <Filter>Source\TileBasedGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TileBasedGame\Private\TileBase.h">
+      <Filter>Source\TileBasedGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TileBasedGame\Private\TileGameManager.cpp">
+      <Filter>Source\TileBasedGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TileBasedGame\Private\TileGameManager.h">
+      <Filter>Source\TileBasedGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TileBasedGame\Private\TilePlayerController.cpp">
+      <Filter>Source\TileBasedGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TileBasedGame\Private\TilePlayerController.h">
+      <Filter>Source\TileBasedGame\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
